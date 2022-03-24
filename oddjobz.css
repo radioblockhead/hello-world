@@ -1,6 +1,6 @@
 #page {
   display: grid;
-  width: 100%;
+  width: 90%;
   height: 250px;
   grid-template-areas: "head head"
                        "nav  main"
