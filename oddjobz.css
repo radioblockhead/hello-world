@@ -28,6 +28,7 @@
 #page > footer {
   grid-area: foot;
   background-color: #8cffa0;
+}
 
   #page > footer2 {
   grid-area: foot2;
