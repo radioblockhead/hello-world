@@ -4,8 +4,8 @@
   height: 250px;
   grid-template-areas: "head head"
                        "nav  main"
-                       "foot  foot"
-                       "foot2  foot2";
+                       "foot2  foot2"
+                       "foot  foot";
   grid-template-rows: 50px 1fr 30px;
   grid-template-columns: 150px 1fr;
 }
@@ -30,7 +30,7 @@
   background-color: #8cffa0;
 }
 
-  #page > footer2 {
+ #page > footer2 {
   grid-area: foot2;
-  background-color: #8c33a0;
+  background-color: #0033dd;
 }
