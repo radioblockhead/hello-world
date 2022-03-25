@@ -34,3 +34,11 @@
   grid-area: foot2;
   background-color: #0033dd;
 }
+
+.background {
+  background-image: url("/images/beluga.jpg");
+  background-size: cover;
+  width: 300px;
+  height: auto;
+  border: solid 2px red;
+}
